@@ -1,1 +1,7 @@
-# ndmo
+## Ndmo
+
+Ndmo
+
+#### License
+
+mit

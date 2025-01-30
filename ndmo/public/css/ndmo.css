@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@400;700&display=swap");
+
+* {
+  font-family: "Almarai", sans-serif !important;
+}
+
+.navbar-home img {
+  max-height: 40px !important;
+}
+.ellipsis {
+  color: purple;
+  padding: 2px;
+  border-radius: 10px;
+}
+.title-text {
+  /* border:solid #1c7571 !important; */
+  color: purple;
+  border-radius: 10px;
+}
+.links-widget-box {
+  padding: 5px;
+  border: solid purple !important;
+  /* background-color: #32848E !important; */
+}
+.splash .img{
+    max-width: 200px !important;
+}
